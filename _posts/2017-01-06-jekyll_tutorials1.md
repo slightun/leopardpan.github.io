@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll搭建个人博客
 date: 2017-01-06 
-tags: 博客   
+tags: blog
 ---
 
 ### 转载说明
