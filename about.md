@@ -1,7 +1,4 @@
----
-layout: page
-title:  
----
+
 
 <h3> 关于我 </h3> 
 
@@ -17,6 +14,3 @@ QQ: 623854412
 <a href="https://github.com/slightun"> GitHub:slightun </a>
 
 {% include comments.html %}
-
-
-
