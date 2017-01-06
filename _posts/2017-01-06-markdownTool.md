@@ -2,7 +2,7 @@
 layout: post
 title: Markdown工具集
 date: 2017-01-06 
-tags: tools   
+tags: tool 
 ---
 
 ### 转载说明
