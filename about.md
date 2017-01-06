@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 关于我 
+title:  
 ---
+
+<h3> 关于我 </h3> 
 
 一位游戏行业的码农
 <p>
