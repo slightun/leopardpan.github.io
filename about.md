@@ -12,7 +12,7 @@ title: 关于我
 <p>
 QQ: 623854412
 <p>
-<a href="https://github.com/slightun"> GitHub </a>
+<a href="https://github.com/slightun"> GitHub:slightun </a>
 
 {% include comments.html %}
 
